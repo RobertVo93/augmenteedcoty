@@ -1,0 +1,25 @@
+{
+  "name": "coty-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "exceljs": "^4.2.1",
+    "express": "4.17.1",
+    "express-form-data": "^2.0.16",
+    "helmet": "^4.6.0",
+    "mkdirp": "^1.0.4",
+    "parse": "2.19.0",
+    "parse-dashboard": "^2.1.0",
+    "parse-server": "4.5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=4.3"
+  },
+  "devDependencies": {}
+}
